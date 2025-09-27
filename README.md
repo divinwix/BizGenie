@@ -1,6 +1,12 @@
-# 🚀 Bootstrap Ideas
+# 🚀 BizGenie — Indie Hacker Idea Generator
 
-> **Fast-track your indie hacker journey from idea to first $1k MRR**
+[![Run on ChatGPT](https://img.shields.io/badge/Try%20on-ChatGPT-blue)](https://chatgpt.com/g/g-68d84c19fd9881919e1ca226552d6f2c-bizgenie-indie-hacker-idea-generator?model=gpt-5)
+
+<div align="center">
+  <img src="bizgenie-logo.png" alt="BizGenie Logo" width="200" height="200">
+</div>
+
+> Turn your own frustrations into 3–5 business ideas you'd actually use, with a 30-day dogfood plan and a 90-day roadmap.
 
 A curated collection of resources, templates, and prompts designed specifically for solo founders, indie hackers, and bootstrappers who want to move fast and validate ideas without burning through runway.
 
@@ -39,6 +45,13 @@ A broader GPT prompt for exploring various business opportunities:
 - You're open to learning new domains/industries
 - You prefer market-driven over personal-pain-driven ideas
 - You want a wider range of business model options
+
+## 🛠️ Usage
+
+You can use BizGenie in two ways:
+
+1. **Prompt Version** → Copy the [Scratch-Your-Own-Itch Prompt](./scratch-your-own-itch-prompt.md) into ChatGPT or another LLM.  
+2. **GPT Version (Recommended)** → [Run BizGenie on ChatGPT](https://chatgpt.com/g/g-68d84c19fd9881919e1ca226552d6f2c-bizgenie-indie-hacker-idea-generator?model=gpt-5)
 
 ## 🚀 Quick Start
 
