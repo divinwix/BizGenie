@@ -4,7 +4,9 @@
 
 <img src="bizgenie-logo.png" alt="BizGenie Logo" width="300" height="300">
 
-> Turn your own frustrations into 3–5 business ideas you'd actually use, with a 30-day dogfood plan and a 90-day roadmap.
+> Turn your own frustrations into 3–5 business ideas you'd actually use —  
+> with **Guided (step-by-step)** or **Fast (all-at-once)** modes,  
+> plus a 30-day dogfood plan and a 90-day roadmap.
 
 A curated collection of resources, templates, and prompts designed specifically for solo founders, indie hackers, and bootstrappers who want to move fast and validate ideas without burning through runway.
 
@@ -20,6 +22,16 @@ A refined GPT prompt that forces you to build products **you would actually use 
 
 **Perfect for:** Builders who want to create tools they genuinely need and use.
 
+### [Guided Flow Notes](./guided-flow-notes.md) ✨ **NEW**
+A step-by-step **coaching-style flow** where BizGenie asks questions one at a time, provides prompts/examples, and summarizes your answers. Features:
+
+- **Lower Cognitive Load** - Answer one question at a time
+- **Examples Included** - To spark ideas and reduce blank-page thinking
+- **Progress Tracking** - Clear “Step X/5” markers keep you moving
+- **Snapshot Confirmation** - Review and lock in answers before idea generation
+
+**Perfect for:** Founders who want a richer, more reflective experience.
+
 ### [General Business Idea Generator](./general-business-idea-prompt.md)
 A broader GPT prompt for exploring various business opportunities:
 
@@ -30,31 +42,35 @@ A broader GPT prompt for exploring various business opportunities:
 
 **Perfect for:** Entrepreneurs exploring different markets and business models.
 
-### 🤔 Which Prompt Should You Use?
+---
 
-**Use Scratch-Your-Own-Itch if:**
-- You want to solve problems you personally experience
-- You prefer building tools you'll use daily
-- You want to be your own power user and beta tester
-- You're looking for authentic product-market fit
+## 🧭 Guided vs Fast Modes
 
-**Use General Business Idea Generator if:**
-- You want to explore broader market opportunities
-- You're open to learning new domains/industries
-- You prefer market-driven over personal-pain-driven ideas
-- You want a wider range of business model options
+BizGenie supports **two ways** to uncover your next idea:
+
+- **Guided Mode (Recommended):** Step-by-step coaching. The GPT asks one question at a time, gives prompts/examples, and confirms your answers before moving on. Richer answers, less overwhelming.  
+- **Fast Mode:** All 5 questions at once. Best for power users who prefer to brain-dump everything quickly.  
+
+Both modes lead to the same outputs:
+- 3–5 business ideas you'd actually use
+- A detailed brief for the #1 idea
+- A dogfood plan (how you'll use it yourself)
+- An optional 90-day roadmap
+
+---
 
 ## 🛠️ Usage
 
 You can use BizGenie in two ways:
 
-1. **Prompt Version** → Copy the [Scratch-Your-Own-Itch Prompt](./scratch-your-own-itch-prompt.md) into ChatGPT or another LLM.  
+1. **Prompt Version** → Copy the [Scratch-Your-Own-Itch Prompt](./scratch-your-own-itch-prompt.md), [Guided Flow Notes](./guided-flow-notes.md), or [General Business Idea Generator](./general-business-idea-prompt.md) into ChatGPT or another LLM.  
 2. **GPT Version (Recommended)** → [Run BizGenie on ChatGPT](https://chatgpt.com/g/g-68d84c19fd9881919e1ca226552d6f2c-bizgenie-indie-hacker-idea-generator?model=gpt-5)
 
 ## 🚀 Quick Start
 
 1. **Choose your approach**: 
    - **Recommended**: [Scratch-Your-Own-Itch Prompt](./scratch-your-own-itch-prompt.md) for personal-pain-driven ideas
+   - **New**: [Guided Flow Notes](./guided-flow-notes.md) for step-by-step coaching
    - **Alternative**: [General Business Idea Generator](./general-business-idea-prompt.md) for market-driven exploration
 2. **Copy the prompt**: Open your chosen prompt file
 3. **Paste into your LLM**: ChatGPT, Claude, or any AI assistant
@@ -97,4 +113,4 @@ MIT License - Use these resources to build your next big thing!
 
 ---
 
-**Ready to bootstrap your next idea?** Start with the [Scratch-Your-Own-Itch Prompt](./scratch-your-own-itch-prompt.md) and let's get you to first revenue! 🚀
+**Ready to bootstrap your next idea?** Start with the [Guided Flow Notes](./guided-flow-notes.md) or [Scratch-Your-Own-Itch Prompt](./scratch-your-own-itch-prompt.md) and let's get you to first revenue! 🚀
