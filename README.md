@@ -6,23 +6,49 @@ A curated collection of resources, templates, and prompts designed specifically 
 
 ## 🎯 What's Inside
 
-### [Indie Hacker Business Idea Generator](./indie-hacker-prompt.md)
-A ready-to-use GPT prompt template that walks you through a structured 5-step process:
+### [Scratch-Your-Own-Itch Prompt](./scratch-your-own-itch-prompt.md) ⭐ **RECOMMENDED**
+A refined GPT prompt that forces you to build products **you would actually use yourself**. Features:
 
-1. **Identify Your Edge** - Leverage existing skills and frustrations
-2. **Generate Fast Ideas** - 3-5 validated business concepts
-3. **Match Lean Models** - Micro-SaaS, newsletters, productized services
-4. **Design MVP Offers** - 30-day revenue-focused plans
-5. **Execution Roadmap** - 90-day sprint to growth or kill decision
+- **Personal Usage Filter** - Only suggests ideas you'd use in your daily workflow
+- **6-Step Process** - From identifying your weekly tasks to 90-day execution
+- **Dogfood-First Approach** - Makes you the power user of your own product
+- **Concrete Templates** - DM scripts, landing page outlines, validation tests
 
-**Perfect for:** Solo founders who want actionable, scrappy advice to get to revenue quickly.
+**Perfect for:** Builders who want to create tools they genuinely need and use.
+
+### [General Business Idea Generator](./general-business-idea-prompt.md)
+A broader GPT prompt for exploring various business opportunities:
+
+- **5-Step Framework** - From skills assessment to execution roadmap
+- **Market-Focused** - Explores ideas based on market demand and trends
+- **Flexible Approach** - Covers multiple business models and validation methods
+- **Revenue-Focused** - Emphasizes quick path to $1k MRR
+
+**Perfect for:** Entrepreneurs exploring different markets and business models.
+
+### 🤔 Which Prompt Should You Use?
+
+**Use Scratch-Your-Own-Itch if:**
+- You want to solve problems you personally experience
+- You prefer building tools you'll use daily
+- You want to be your own power user and beta tester
+- You're looking for authentic product-market fit
+
+**Use General Business Idea Generator if:**
+- You want to explore broader market opportunities
+- You're open to learning new domains/industries
+- You prefer market-driven over personal-pain-driven ideas
+- You want a wider range of business model options
 
 ## 🚀 Quick Start
 
-1. **Copy the prompt**: Open [indie-hacker-prompt.md](./indie-hacker-prompt.md)
-2. **Paste into your LLM**: ChatGPT, Claude, or any AI assistant
-3. **Follow the process**: Answer the questions and get personalized business ideas
-4. **Execute fast**: Use the 90-day roadmap to validate and launch
+1. **Choose your approach**: 
+   - **Recommended**: [Scratch-Your-Own-Itch Prompt](./scratch-your-own-itch-prompt.md) for personal-pain-driven ideas
+   - **Alternative**: [General Business Idea Generator](./general-business-idea-prompt.md) for market-driven exploration
+2. **Copy the prompt**: Open your chosen prompt file
+3. **Paste into your LLM**: ChatGPT, Claude, or any AI assistant
+4. **Follow the process**: Answer the questions and get personalized business ideas
+5. **Execute fast**: Use the roadmap to validate and launch
 
 ## 💡 Philosophy
 
@@ -60,4 +86,4 @@ MIT License - Use these resources to build your next big thing!
 
 ---
 
-**Ready to bootstrap your next idea?** Start with the [Indie Hacker Prompt](./indie-hacker-prompt.md) and let's get you to first revenue! 🚀
+**Ready to bootstrap your next idea?** Start with the [Scratch-Your-Own-Itch Prompt](./scratch-your-own-itch-prompt.md) and let's get you to first revenue! 🚀
