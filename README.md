@@ -2,9 +2,7 @@
 
 [![Run on ChatGPT](https://img.shields.io/badge/Try%20on-ChatGPT-blue)](https://chatgpt.com/g/g-68d84c19fd9881919e1ca226552d6f2c-bizgenie-indie-hacker-idea-generator?model=gpt-5)
 
-<div align="center">
-  <img src="bizgenie-logo.png" alt="BizGenie Logo" width="300" height="300">
-</div>
+<img src="bizgenie-logo.png" alt="BizGenie Logo" width="300" height="300">
 
 > Turn your own frustrations into 3–5 business ideas you'd actually use, with a 30-day dogfood plan and a 90-day roadmap.
 
