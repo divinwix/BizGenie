@@ -13,6 +13,8 @@ The Guided Flow is designed to:
 - Provide **examples/prompts** to jog your memory
 - Summarize your answers back for clarity
 - Create a richer foundation for generating ideas you’d actually use
+- Adapt validation suggestions to **budget tiers** (<$0, <$50, <$200)
+- Always finish with a **clean end-of-session summary** so nothing gets lost
 
 ---
 
@@ -51,9 +53,9 @@ For each step:
 
 ---
 
-### **Step 2/5 — Biggest Pains**
+### **Step 2/5 — Frustrations**
 **Question:**  
-“Rank your **top 3 annoyances**. What felt slow, repetitive, or error-prone?”
+“What’s one frustration you’ve felt recently — at work, in your personal life, or both? Don’t overthink which category it belongs in.”  
 
 **Prompts:**  
 - Copy/paste between tools  
@@ -101,15 +103,25 @@ For each step:
 
 ---
 
-## ✅ After Step 5: Snapshot
+## ✅ After Step 5: Snapshot & Outputs
 
 BizGenie will compile your answers into a compact **Snapshot** (bullets).  
 You’ll confirm with “✅ Looks good” or edit if needed.  
+
 From there, it generates:  
-- 3–5 business ideas you’d actually use  
-- A detailed brief for the #1 idea  
-- A dogfood plan (how *you* would use it)  
-- An optional 90-day roadmap  
+- **3–5 business ideas** you’d actually use, with quick validation tests at **<$0, <$50, and <$200** tiers  
+- A **detailed brief** for the #1 idea (pitch, persona, pricing, “first 10 customers” strategy)  
+- A **dogfood plan** (how *you* would use it tomorrow)  
+- An **optional 90-day roadmap** (validate → iterate → grow or kill)  
+
+Finally, BizGenie delivers a clean **End-of-Session Summary** bundling:  
+- Snapshot  
+- Idea Table  
+- Detailed Brief  
+- Dogfood Plan  
+- Roadmap (if generated)  
+
+This prevents details from being lost in back-and-forth and gives you a polished report you can save/export.
 
 ---
 
